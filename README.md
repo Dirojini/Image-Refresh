@@ -5,8 +5,14 @@ Welcome to my dynamic landing page! This project showcases a landing page that d
 ## 🌐 Live Demo
 ![Landing Page Preview](https://github.com/Dirojini/Image-Refresh/blob/5cefe05be5245e3c87a2612fd58aacfb8df977c1/Screenshot%202024-12-24%20171336.png
 )
+
+
+
 ##Mobile view
 ![image](https://github.com/user-attachments/assets/a55fcdb6-e1ff-47b7-a628-344caa7530fb)
+
+
+
 ## 🚀 Features
 - Dynamic image change on each refresh
 - Responsive design for all devices
@@ -14,7 +20,7 @@ Welcome to my dynamic landing page! This project showcases a landing page that d
 - Functional contact form with validation
 - Smooth user experience with Bootstrap integration
 ## video model
-![video]()
+![video](https://github.com/Dirojini/Image-Refresh/blob/6576eff98f60473daa5cb2e9ce2955565d3e5724/Screen%20Recording%202024-12-24%20171619.mp4)
 
 ## 🛠️ Technologies Used
 - **HTML5** - Structure and layout
