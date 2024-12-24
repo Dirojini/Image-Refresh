@@ -46,7 +46,7 @@ landing-page/
 ## 📜 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dirojini-portfolio/landing-page.git
+   git clone https://github.com/Dirojini/Image-Refresh.git
    ```
 2. Open `index.html` in your browser to view the site locally.
 
