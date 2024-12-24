@@ -64,8 +64,8 @@ landing-page/
 Feel free to fork this project and submit pull requests for any improvements or new features.
 
 ## 📧 Contact Me
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- Email: your-email@example.com
+- LinkedIn: [my LinkedIn Profile](https://www.linkedin.com/in/dirojini-elankeswaran/)
+- Email: dirodirojini@gmail.com
 
 ---
 **Built with ❤️ by Dirojini E.**
