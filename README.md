@@ -1,20 +1,20 @@
 
 # Landing Page with Dynamic Image and Contact Form
-![image](https://github.com/user-attachments/assets/a55fcdb6-e1ff-47b7-a628-344caa7530fb)
 Welcome to my dynamic landing page! This project showcases a landing page that displays a different image every time the page is refreshed, along with a responsive contact form.
 
 ## 🌐 Live Demo
-Check out the live version of the landing page [here](https://your-landingpage-url.com).
-
-## 📸 Preview
-![Landing Page Preview](preview-image-url)
-
+![Landing Page Preview](https://github.com/Dirojini/Image-Refresh/blob/5cefe05be5245e3c87a2612fd58aacfb8df977c1/Screenshot%202024-12-24%20171336.png
+)
+##Mobile view
+![image](https://github.com/user-attachments/assets/a55fcdb6-e1ff-47b7-a628-344caa7530fb)
 ## 🚀 Features
 - Dynamic image change on each refresh
 - Responsive design for all devices
 - Sleek and modern layout
 - Functional contact form with validation
 - Smooth user experience with Bootstrap integration
+## video model
+![video]()
 
 ## 🛠️ Technologies Used
 - **HTML5** - Structure and layout
